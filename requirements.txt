@@ -1,0 +1,5 @@
+transformers==4.36.2
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==1.26.0
+scipy==1.15.3
